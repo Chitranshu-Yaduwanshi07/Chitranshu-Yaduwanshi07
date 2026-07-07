@@ -125,58 +125,7 @@ AI-powered Code Generation SaaS Platform built using **Spring Boot**, **React**,
 Modern Learning Management System featuring authentication, quizzes, admin dashboard, and AI-powered learning assistance.
 
 ---
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Chitranshu-Yaduwanshi07&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chitranshu-Yaduwanshi07&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Chitranshu-Yaduwanshi07&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Chitranshu-Yaduwanshi07&theme=github-compact&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Chitranshu-Yaduwanshi07&theme=algolia&row=2&column=4&no-frame=true"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
----
+--- <!-- ================= CONTRIBUTION ACTIVITY ================= --> <h2 align="center">🔥 Contribution Activity 🔥</h2> <div align="center"> [![Chitranshu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Chitranshu-Yaduwanshi07&bg_color=0d1117&color=00f2ff&line=22c55e&point=ffffff&area=true&hide_border=true)](https://github.com/Chitranshu-Yaduwanshi07) </div> <br/> <h2 align="center">⚡ Activity ⚡</h2> <div align="center"> [![GitHub Streak](https://streak-stats.demolab.com?user=Chitranshu-Yaduwanshi07&theme=dark&hide_border=true&ring=22c55e&fire=22c55e&currStreakLabel=22c55e&sideLabels=22c55e&dates=ffffff)](https://git.io/streak-stats) </div> <br/> ## 🕹️ Pacman Contribution Game <p align="center"> <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/> </p> ---
 
 # 🌐 Connect With Me
 
