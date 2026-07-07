@@ -17,26 +17,13 @@
 
 # 🚀 About Me
 
-```yaml
-Name: Chitranshu Yadav
-Role: Java Full Stack Developer
-Education: B.Tech CSE
-Current Focus:
-  - Spring Boot
-  - React
-  - MySQL
-  - AI + RAG
-  - Docker
-Learning:
-  - AWS
-  - Kubernetes
-  - CI/CD
-Building:
-  - CodeNova AI
-  - Skill Sensei LMS
-```
+Hi 👋, I'm **Chitranshu Yadav**, a **B.Tech CSE student** passionate about building modern web applications with **Java, Spring Boot, React, and MySQL**. I love turning ideas into real-world products and continuously improving my backend development skills.
 
----
+I'm currently developing **CodeNova**, an AI-powered code generation platform, and **Skill Sensei**, a smart Learning Management System. My interests include **Artificial Intelligence, RAG, Spring AI, Cloud, and DevOps**, and I'm actively learning **AWS, Docker, Jenkins, and CI/CD** while solving DSA problems regularly.
+
+🚀 **Open to Java Full Stack & Backend Job Opportunities.**
+
+💡 *Always learning, always building, and always striving to write better code.*
 
 # 🛠 Tech Stack
 
@@ -46,37 +33,64 @@ Building:
 <img src="https://skillicons.dev/icons?i=java,cpp,js,ts"/>
 </p>
 
-## 🌐 Frontend
+---
+
+## 🎨 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap"/>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap"/>
 </p>
 
-## ⚙ Backend
+---
+
+## ⚙️ Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,maven,hibernate"/>
+<img src="https://skillicons.dev/icons?i=spring,maven,hibernate"/>
 </p>
 
-## 🗄 Database
+<p>
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Spring%20AI-6DB33F?style=for-the-badge"/>
+</p>
+
+---
+
+## 🗄️ Database
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
 </p>
 
-## ☁ DevOps & Cloud
+---
+
+## ☁️ DevOps & Cloud
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,jenkins,linux"/>
-</p>
-
-## 🧰 Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,figma"/>
+<img src="https://skillicons.dev/icons?i=docker,aws,jenkins,linux,git,github"/>
 </p>
 
 ---
+
+## 🛠 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,idea,postman"/>
+</p>
+
+---
+
+## 🤖 AI & LLM
+
+<p>
+<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-22C55E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+</p>
 
 # 🚀 Featured Projects
 
